@@ -8,7 +8,7 @@
 
 - 👨‍💻 I’m currently working at ParvaM - **ParvaM consultech Solution**
   
-- 💻 All of my projects are available on [GitHub](https://github.com/Nithingowda16)
+- 💻 All of my projects are available on [GitHub]( https://github.com/1ManojM/manojm_4gl22ec403_parvam_training-.git )
 
 - 💬 Ask me about **Programming, python HTML,CSS,JAVASCRIP,**
 
